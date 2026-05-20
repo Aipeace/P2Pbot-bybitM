@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 # ─────────────────────────────────────────
 SCAMMERS_FILE_URL  = os.getenv(
     "SCAMMERS_FILE_URL",
-    "https://raw.githubusercontent.com/akinrinadeakinniyi401-dot/bybit-p2p-telegram-bot/main/scammers.txt"
+    "https://raw.githubusercontent.com/Aipeace/P2Pbot-bybitM/refs/heads/main/scammers.txt"
 )
 REFRESH_INTERVAL   = 30 * 60    # refresh cache every 30 minutes
 SIMILARITY_THRESHOLD = 0.82     # fuzzy match threshold (82%)
