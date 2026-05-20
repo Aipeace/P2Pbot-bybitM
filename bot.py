@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 # ─────────────────────────────────────────
 # 🖼️ Welcome banner image
 # ─────────────────────────────────────────
-BANNER_URL = "https://raw.githubusercontent.com/akinrinadeakinniyi401-dot/bybit-p2p-telegram-bot/main/photo_6017280178934975538_x.jpg"
+BANNER_URL = "https://raw.githubusercontent.com/Aipeace/P2Pbot-bybitM/refs/heads/main/Title%20(3).jpg"
 
 
 async def _get_current_ip() -> str:
@@ -54,7 +54,7 @@ user_settings = {
     "float_pct":    "",
     "local_usdt_ref": "",
     "interval":     2,
-    "sender_name":  "Akinrinade Akinniyi",
+    "sender_name":  "Akintunde Idowu Akinniyi",
 }
 
 # ── My Bybit account identity (auto-detected from first message I send) ──
